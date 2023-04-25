@@ -1,7 +1,7 @@
 package Modelo;
 
 import java.util.Date;
-//Prueba GitHUB V2
+//Prueba GitHUB V22
 
 public class Cliente {
 
