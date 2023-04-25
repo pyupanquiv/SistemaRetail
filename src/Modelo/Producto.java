@@ -1,7 +1,7 @@
 package Modelo;
 
 import java.util.Date;
-
+//Prueba GitHUB VFinal2
 public class Producto {
 
 	  private int idproducto;
