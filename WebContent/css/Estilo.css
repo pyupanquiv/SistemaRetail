@@ -1,0 +1,10 @@
+    body {
+      margin: 0;
+      padding: 0;
+    }
+	.bg-custom {
+	    background-color: #3f628b !important;
+	}
+	.dropdown-menu {
+  max-width: 200px; /* Ancho máximo deseado */
+}
